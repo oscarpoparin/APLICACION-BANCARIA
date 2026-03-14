@@ -171,7 +171,7 @@ Incluyen:
 * Flujo de navegación
 * Pantallas de transferencias
 
-[Ver documentación](DOCUMENTACION/UI)
+[Ver documentación](Documentation/UI/UI.md)
 
 ---
 
@@ -190,7 +190,7 @@ Ubicación:
 DOCUMENTACION/
 ```
 
-[Ver documentación](DOCUMENTACION/)
+[Ver documentación](Documentation/UX/Diagrama-flujo-navegacion-app.md)
 
 ---
 
