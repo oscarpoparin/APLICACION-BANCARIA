@@ -1,3 +1,3 @@
 ## Pantalla Login
 
-![Pantalla Login](UI/login.png)
+![Pantalla Login](LOGIN.png)
