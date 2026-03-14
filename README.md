@@ -123,7 +123,7 @@ Dependiendo del avance del proyecto, se planea utilizar tecnologías como:
 
 Backend
 
-* Java
+* Java / Golang 
 * Spring Boot
 * REST API
 
@@ -131,7 +131,7 @@ Frontend
 
 * React / Angular
 * HTML5
-* CSS3
+* CSS3 / Tailwind
 * JavaScript
 
 Mobile
@@ -165,6 +165,8 @@ Incluyen:
 * Flujo de navegación
 * Pantallas de transferencias
 
+[Ver documentación](DOCUMENTACION/UI)
+
 ---
 
 # 📚 Documentación
@@ -181,6 +183,8 @@ Ubicación:
 ```
 DOCUMENTACION/
 ```
+
+[Ver documentación](DOCUMENTACION/)
 
 ---
 
