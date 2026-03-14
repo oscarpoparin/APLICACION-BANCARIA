@@ -10,6 +10,7 @@ El sistema está compuesto por múltiples aplicaciones y servicios que trabajan 
 
 <p align="center">
   <img src="DOCUMENTACION/UI/LOGIN.png" width="300"/>
+  <img src="DOCUMENTACION/UI/APP-INICIO.png" width="300"/>
 </p>
 
 ---
