@@ -8,7 +8,7 @@
 
 ## Pantallas Principales
 
-![Pantalla Login](APP_MOVILE_PANTALLAS_PRINCIPAL.png.png)
+![Pantalla Login](APP_MOVILE_PANTALLAS_PRINCIPAL.png)
 
 ## Pantallas Secundarias
 
