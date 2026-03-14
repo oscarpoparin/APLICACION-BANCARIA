@@ -9,8 +9,8 @@ El sistema está compuesto por múltiples aplicaciones y servicios que trabajan 
 ## Vista previa de la aplicación móvil
 
 <p align="center">
-  <img src="DOCUMENTACION/UI/LOGIN.png" width="300"/>
-  <img src="DOCUMENTACION/UI/APP-INICIO.png" width="300"/>
+  <img src="assets/preview/LOGIN.png" width="300"/>
+  <img src="assets/preview/APP-INICIO.png" width="300"/>
 </p>
 
 ---
@@ -104,10 +104,16 @@ Integraciones externas (SPEI)
 APLICACION-BANCARIA
 │
 ├── DOCUMENTACION
-│   ├── Diagrama-flujo-navegacion-app.md
+│   ├── UX
+│   │   └── Diagrama-flujo-navegacion-app.md
+│   │
 │   └── UI
 │       ├── UI.md
-│       └── imagenes
+│       ├── APP_MOVILE_PANTALLA_SECUNDARIA_HOME.png
+│       ├── APP_MOVILE_PANTALLA_TERCIARIA_HOME_TRANSFERENCIAS.png
+│       ├── APP_MOVILE_PANTALLAS_PRINCIPAL.png
+│       ├── LOGIN_MOVILE.png
+│       └── REGISTRO_MOVILE.png
 │
 ├── app-movil
 ├── portal-web
