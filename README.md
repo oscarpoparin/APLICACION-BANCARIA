@@ -161,7 +161,7 @@ Integración
 Los diseños de las pantallas de la aplicación se encuentran documentados en la carpeta:
 
 ```
-DOCUMENTACION/UI
+Documentation/UI
 ```
 
 Incluyen:
@@ -187,7 +187,7 @@ La documentación del proyecto incluye:
 Ubicación:
 
 ```
-DOCUMENTACION/
+Documentation/UX
 ```
 
 [Ver documentación](Documentation/UX/Diagrama-flujo-navegacion-app.md)
