@@ -15,6 +15,15 @@ El sistema está compuesto por múltiples aplicaciones y servicios que trabajan 
 
 ---
 
+## 🌐 Portal Web – Vista de Inicio
+
+<p align="center">
+  <img src="assets/preview/PORTAL WEB_HERO.png" width="300"/>
+  <img src="assets/preview/PORTAL WEB_INICIO_SESION_INICIO.png" width="300"/>
+</p>
+
+---
+
 # 🎯 Objetivo del Proyecto
 
 Desarrollar un ecosistema bancario que permita centralizar la gestión de operaciones financieras mediante diferentes interfaces tecnológicas:
